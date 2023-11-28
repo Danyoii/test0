@@ -21,4 +21,4 @@ for i in range(rows):
     for j in range(cols):
         rect(start_x + j * distance, start_y + i * distance, length, width)
 
-saveImage("Danya_1488_combined_grids.pdf")
+saveImage("Task_2.pdf")
